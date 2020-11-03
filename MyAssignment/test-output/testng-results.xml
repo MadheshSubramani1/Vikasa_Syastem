@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LoginSuite" duration-ms="4143" started-at="2020-10-17T23:35:13 IST" finished-at="2020-10-17T23:35:17 IST">
+    <groups>
+    </groups>
+    <test name="VerifytheLoginPage" duration-ms="575" started-at="2020-10-17T23:35:13 IST" finished-at="2020-10-17T23:35:13 IST">
+      <class name="TestCase.VerifyLoginPage">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:TestCase.VerifyLoginPage@2d6eabae]" name="Login" duration-ms="356" started-at="2020-10-17T23:35:13 IST" data-provider="loginData" finished-at="2020-10-17T23:35:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ayla]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- TestCase.VerifyLoginPage -->
+    </test> <!-- VerifytheLoginPage -->
+    <test name="VerifyBuildingRegistrationPage" duration-ms="3544" started-at="2020-10-17T23:35:14 IST" finished-at="2020-10-17T23:35:17 IST">
+      <class name="sample.BuildingsDetailsClass">
+        <test-method status="PASS" signature="launchTheBrowser()[pri:0, instance:sample.BuildingsDetailsClass@5faeada1]" name="launchTheBrowser" is-config="true" duration-ms="8772" started-at="2020-10-17T23:35:04 IST" finished-at="2020-10-17T23:35:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTheBrowser -->
+        <test-method status="PASS" signature="Registration()[pri:0, instance:sample.BuildingsDetailsClass@5faeada1]" name="Registration" duration-ms="3539" started-at="2020-10-17T23:35:14 IST" finished-at="2020-10-17T23:35:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sample.BuildingsDetailsClass@5faeada1]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-10-17T23:35:17 IST" finished-at="2020-10-17T23:35:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sample.BuildingsDetailsClass -->
+    </test> <!-- VerifyBuildingRegistrationPage -->
+  </suite> <!-- LoginSuite -->
+</testng-results>

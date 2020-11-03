@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7018" started-at="2020-03-16T17:47:19 IST" finished-at="2020-03-16T17:47:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7018" started-at="2020-03-16T17:47:19 IST" finished-at="2020-03-16T17:47:26 IST">
+      <class name="mavenPackage.testClass">
+        <test-method status="PASS" signature="url()[pri:0, instance:mavenPackage.testClass@566776ad]" name="url" duration-ms="6974" started-at="2020-03-16T17:47:19 IST" finished-at="2020-03-16T17:47:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+      </class> <!-- mavenPackage.testClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

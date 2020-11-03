@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [orange HRM Test]">
+  <test thread-count="5" name="Pending Leave Request Tets case(failed)">
+    <classes>
+      <class name="testCases.VerifyPendingLeaveRequest">
+        <methods>
+          <include name="verifyPendingLeaves"/>
+          <include name="tearDown"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- testCases.VerifyPendingLeaveRequest -->
+    </classes>
+  </test> <!-- Pending Leave Request Tets case(failed) -->
+  <test thread-count="5" name="Verify User Role Test Case(failed)">
+    <classes>
+      <class name="testCases.VerifyUserRole">
+        <methods>
+          <include name="VerifyUserRolesandStatus"/>
+          <include name="tearDown"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- testCases.VerifyUserRole -->
+    </classes>
+  </test> <!-- Verify User Role Test Case(failed) -->
+</suite> <!-- Failed suite [orange HRM Test] -->

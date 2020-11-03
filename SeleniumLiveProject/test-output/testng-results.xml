@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="orange HRM Test" duration-ms="5952" started-at="2020-04-05T20:58:51 IST" finished-at="2020-04-05T20:58:57 IST">
+    <groups>
+    </groups>
+    <test name="Pending Leave Request Tets case" duration-ms="3857" started-at="2020-04-05T20:58:51 IST" finished-at="2020-04-05T20:58:55 IST">
+      <class name="testCases.VerifyPendingLeaveRequest">
+        <test-method status="PASS" signature="verifyPendingLeaves()[pri:0, instance:testCases.VerifyPendingLeaveRequest@32a068d1]" name="verifyPendingLeaves" duration-ms="3822" started-at="2020-04-05T20:58:51 IST" finished-at="2020-04-05T20:58:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPendingLeaves -->
+      </class> <!-- testCases.VerifyPendingLeaveRequest -->
+    </test> <!-- Pending Leave Request Tets case -->
+    <test name="Verify User Role Test Case" duration-ms="2076" started-at="2020-04-05T20:58:55 IST" finished-at="2020-04-05T20:58:57 IST">
+      <class name="testCases.VerifyUserRole">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testCases.VerifyUserRole@3d3fcdb0]" name="launchBrowser" is-config="true" duration-ms="7432" started-at="2020-04-05T20:58:44 IST" finished-at="2020-04-05T20:58:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="VerifyUserRolesandStatus()[pri:0, instance:testCases.VerifyUserRole@3d3fcdb0]" name="VerifyUserRolesandStatus" duration-ms="2073" started-at="2020-04-05T20:58:55 IST" finished-at="2020-04-05T20:58:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserRolesandStatus -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.VerifyUserRole@3d3fcdb0]" name="tearDown" is-config="true" duration-ms="1277" started-at="2020-04-05T20:58:57 IST" finished-at="2020-04-05T20:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.VerifyUserRole -->
+    </test> <!-- Verify User Role Test Case -->
+  </suite> <!-- orange HRM Test -->
+</testng-results>

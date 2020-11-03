@@ -1,0 +1,77 @@
+2020-03-30 14:27:10 INFO  CommonFunction:34 - Orange HRM Test Begins
+2020-03-30 14:27:10 INFO  CommonFunction:35 - Loading The Property File
+2020-03-30 14:27:10 INFO  CommonFunction:44 - Launching Chrome Browser
+2020-03-30 14:27:14 INFO  CommonFunction:54 - Navigating to Application
+2020-03-30 14:27:18 INFO  VerifyPendingLeaveRequest:17 - Login The Application
+2020-03-30 14:27:20 INFO  VerifyPendingLeaveRequest:25 - Getting The Pending Leave Request
+2020-03-30 14:27:21 INFO  VerifyPendingLeaveRequest:35 - Verifying The Pending Leave request
+2020-03-30 14:27:22 INFO  VerifyUserRole:16 - Move to Users Page
+2020-03-30 14:27:23 INFO  VerifyUserRole:27 - Selecting The User Role
+2020-03-30 14:27:23 INFO  VerifyUserRole:30 - Selecting The User Status
+2020-03-30 14:27:24 INFO  VerifyUserRole:49 - Verifying The User Role And Status
+2020-03-30 14:27:24 INFO  CommonFunction:62 - Execution ompleted
+
+[main] INFO  commonFiles.CommonFunction  - Orange HRM Test Begins
+[main] INFO  commonFiles.CommonFunction  - Loading The Property File
+[main] INFO  commonFiles.CommonFunction  - Launching Chrome Browser
+[main] INFO  commonFiles.CommonFunction  - Navigating to Application
+[main] INFO  testCases.VerifyPendingLeaveRequest  - Login The Application
+[main] INFO  testCases.VerifyPendingLeaveRequest  - Getting The Pending Leave Request
+[main] INFO  testCases.VerifyPendingLeaveRequest  - Verifying The Pending Leave request
+[main] INFO  testCases.VerifyUserRole  - Move to Users Page
+[main] INFO  testCases.VerifyUserRole  - Selecting The User Role
+[main] INFO  testCases.VerifyUserRole  - Selecting The User Status
+[main] INFO  testCases.VerifyUserRole  - Verifying The User Role And Status
+[main] INFO  commonFiles.CommonFunction  - Execution ompleted
+2020-03-30 14:32:16 INFO  commonFiles.CommonFunction:34 - Orange HRM Test Begins
+2020-03-30 14:32:16 INFO  commonFiles.CommonFunction:35 - Loading The Property File
+2020-03-30 14:32:16 INFO  commonFiles.CommonFunction:44 - Launching Chrome Browser
+2020-03-30 14:32:21 INFO  commonFiles.CommonFunction:54 - Navigating to Application
+2020-03-30 14:32:24 INFO  testCases.VerifyPendingLeaveRequest:17 - Login The Application
+2020-03-30 14:32:26 INFO  testCases.VerifyPendingLeaveRequest:25 - Getting The Pending Leave Request
+2020-03-30 14:32:28 INFO  testCases.VerifyPendingLeaveRequest:35 - Verifying The Pending Leave request
+2020-03-30 14:32:28 INFO  testCases.VerifyUserRole:16 - Move to Users Page
+2020-03-30 14:32:29 INFO  testCases.VerifyUserRole:27 - Selecting The User Role
+2020-03-30 14:32:29 INFO  testCases.VerifyUserRole:30 - Selecting The User Status
+2020-03-30 14:32:30 INFO  testCases.VerifyUserRole:49 - Verifying The User Role And Status
+2020-03-30 14:32:30 INFO  commonFiles.CommonFunction:62 - Execution ompleted
+2020-04-05 20:54:41 INFO  CommonFunction:34 - Orange HRM Test Begins
+2020-04-05 20:54:41 INFO  CommonFunction:35 - Loading The Property File
+2020-04-05 20:54:41 INFO  CommonFunction:44 - Launching Chrome Browser
+2020-04-05 20:54:45 INFO  CommonFunction:54 - Navigating to Application
+2020-04-05 20:55:14 INFO  CommonFunction:34 - Orange HRM Test Begins
+2020-04-05 20:55:14 INFO  CommonFunction:35 - Loading The Property File
+2020-04-05 20:55:14 INFO  CommonFunction:44 - Launching Chrome Browser
+2020-04-05 20:55:18 INFO  CommonFunction:54 - Navigating to Application
+2020-04-05 20:55:21 INFO  VerifyPendingLeaveRequest:17 - Login The Application
+2020-04-05 20:55:23 INFO  VerifyPendingLeaveRequest:25 - Getting The Pending Leave Request
+2020-04-05 20:55:23 INFO  VerifyPendingLeaveRequest:35 - Verifying The Pending Leave request
+2020-04-05 20:55:23 INFO  VerifyUserRole:16 - Move to Users Page
+2020-04-05 20:55:26 INFO  VerifyUserRole:27 - Selecting The User Role
+2020-04-05 20:55:26 INFO  VerifyUserRole:30 - Selecting The User Status
+2020-04-05 20:55:27 INFO  VerifyUserRole:49 - Verifying The User Role And Status
+2020-04-05 20:55:27 INFO  CommonFunction:62 - Execution ompleted
+2020-04-05 20:56:38 INFO  CommonFunction:34 - Orange HRM Test Begins
+2020-04-05 20:56:38 INFO  CommonFunction:35 - Loading The Property File
+2020-04-05 20:56:38 INFO  CommonFunction:44 - Launching Chrome Browser
+2020-04-05 20:56:42 INFO  CommonFunction:54 - Navigating to Application
+2020-04-05 20:56:45 INFO  VerifyPendingLeaveRequest:17 - Login The Application
+2020-04-05 20:56:47 INFO  VerifyPendingLeaveRequest:25 - Getting The Pending Leave Request
+2020-04-05 20:56:48 INFO  VerifyPendingLeaveRequest:35 - Verifying The Pending Leave request
+2020-04-05 20:56:48 INFO  VerifyUserRole:16 - Move to Users Page
+2020-04-05 20:56:50 INFO  VerifyUserRole:27 - Selecting The User Role
+2020-04-05 20:56:50 INFO  VerifyUserRole:30 - Selecting The User Status
+2020-04-05 20:56:50 INFO  VerifyUserRole:49 - Verifying The User Role And Status
+2020-04-05 20:56:50 INFO  CommonFunction:62 - Execution ompleted
+2020-04-05 20:58:44 INFO  CommonFunction:34 - Orange HRM Test Begins
+2020-04-05 20:58:44 INFO  CommonFunction:35 - Loading The Property File
+2020-04-05 20:58:44 INFO  CommonFunction:44 - Launching Chrome Browser
+2020-04-05 20:58:48 INFO  CommonFunction:54 - Navigating to Application
+2020-04-05 20:58:51 INFO  VerifyPendingLeaveRequest:17 - Login The Application
+2020-04-05 20:58:55 INFO  VerifyPendingLeaveRequest:25 - Getting The Pending Leave Request
+2020-04-05 20:58:55 INFO  VerifyPendingLeaveRequest:35 - Verifying The Pending Leave request
+2020-04-05 20:58:55 INFO  VerifyUserRole:16 - Move to Users Page
+2020-04-05 20:58:57 INFO  VerifyUserRole:27 - Selecting The User Role
+2020-04-05 20:58:57 INFO  VerifyUserRole:30 - Selecting The User Status
+2020-04-05 20:58:57 INFO  VerifyUserRole:49 - Verifying The User Role And Status
+2020-04-05 20:58:57 INFO  CommonFunction:62 - Execution ompleted
